@@ -43,9 +43,7 @@ if($_SESSION['Login'] && $_SESSION['userType'] === "Admin"){
       margin-left:5em;
       width:30em;
     }
-    input,select{
-      text-align : center;
-    }
+  /* ons had changed this file !!!!! */
     button{
       width:15em;
       margin:15px
