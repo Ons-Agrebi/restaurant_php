@@ -99,7 +99,7 @@
   </a>
 </div>
 <div id="btn-reservations" style="padding-top: 10px">
-  <a href="ManageReservations.php">
+  <a href="ManageReservations.">
     <button type="button" class="btn btn-secondary btn-lg">Manage Reservations</button>
   </a>
 </div>
